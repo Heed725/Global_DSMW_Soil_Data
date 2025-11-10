@@ -1,0 +1,137 @@
+SoilCode,SoilName,ColorHex
+A,ACRISOLS,#000000
+Af,Ferric Acrisols,#DEAB00
+Ag,Gleyic Acrisols,#FEDE11
+Ah,Humic Acrisols,#FECE00
+Ao,Orthic Acrisols,#FEA046
+Ap,Plinthis Acrisols,#FEDE00
+B,CAMBISOLS,#000000
+Bc,Chromic Cambisols,#ECEC00
+Bd,Dystric Cambisols,#DFDF51
+Be,Eutric Cambisols,#DFDF11
+Bf,Ferralic Cambisols,#BDBC81
+Bg,Gleyic Cambisols,#BDBC73
+Bh,Humic Cambisols,#BEBC30
+Bk,Calcic Cambisols,#91AD2F
+Bv,Vertic Cambisols,#A1AC76
+Bx,Gelic Cambisols,#A09E12
+E,RENDZINAS,#3C5A6E
+C,CHERNOZEMS,#807E00
+Cg,Glossic Chernozems,#807E00
+Ch,Haplic Chernozems,#817908
+Ck,Calcic Chernozems,#797100
+Cl,Luvic Chernozems,#3B6800
+D,PODZOLUVISOLS,#000000
+Dd,Dystric Podzoluvisols,#9F7A7A
+De,Eutric Podzoluvisols,#9F6C6C
+Dg,Gleyic Podzoluvisols,#9F5050
+F,FERRALSOLS,#000000
+Fa,Acric Ferrlsols,#FE602F
+Fh,Humic Ferralsols,#FE608E
+Fo,Orthic Ferralsols,#DF5151
+Fp,Plinthic Ferralsols,#FE6060
+Fr,Rhodic Ferralsols,#FE003F
+Fx,Xanthic Ferralsols,#FE5100
+G,GLEYSOLS,#7FA0FE
+Gc,Calcaric Gleysols,#AFAFFE
+Gd,Dystric Gleysols,#AFDFFF
+Ge,Eutric Gleysols,#7FA0FE
+Gh,Humic Gleysols,#7FBEFE
+Gm,Mollic Gleysols,#AFA0FE
+Gp,Plinthic Gleysols,#005DEC
+Gx,Gelic Gleysols,#005DEC
+H,PHAEOZEMS,#000000
+Hc,Calcaric Phaeozems,#B9733A
+Hg,Gleyic Phaeozems,#A0906E
+Hh,Haplic Phaeozems,#A08752
+Hl,Luvic Phaeozems,#C7783F
+I,Lithosols,#BFBFBF
+J,FLUVISOLS,#3FFEDF
+Jc,Calcaric Fluvisols,#6FFEEF
+Jd,Dystric Fluvisols,#8EFEFE
+Je,Eutric Fluvisols,#3FFEDF
+Jt,Thionic Fluvisols,#DFFEFE
+K,KASTAZNOZEMS,#DF3211
+Kh,Haplic Kastanozems,#DF3211
+Kk,Calcic Kastanozems,#DF1132
+Kl,Luvic Kastanozems,#EC3F00
+L,LUVISOLS,#FEBE51
+La,Albic Luvisols,#FE5100
+Lc,Chromic Luvisols,#FEBE6F
+Lf,Ferric Luvisols,#FEAF6F
+Lg,Gleyic Luvisols,#FEDF7F
+Lk,Calcic Luvisols,#FEAF3F
+Lo,Orthic Luvisols,#FEBE51
+Lp,Plinthic Luvisols,#FE7F51
+Lv,Vertic Luvisols,#FE7F2F
+M,GREYZEMS,#000000
+Mg,Gleyic Greyzems,#3E657B
+Mo,Orthic Greyzems,#688B7F
+N,NITOSOLS,#000000
+Nd,Distric Nitosols,#A06332
+Ne,Eutric Nitosols,#9F5316
+Nh,Humic Nitosols,#AC1C00
+O,HISTOSOLS,#2FBEBE
+Od,Dystric Histosols,#30BEBE
+Oe,Eutric Histosols,#0F7C81
+Ox,Gelic Histosols,#0D6A6C
+P,PODZOLS,#000000
+Pf,Ferric Podzols,#BEFE20
+Pg,Gleyic Podzols,#A0FE8E
+Ph,Humic Podzols,#BEFE11
+Pl,Leptic Podzols,#CEFE60
+Po,Orthic Podzols,#BEFE00
+Pp,Placic Podzols,#CEFE51
+Q,ARENOSOLS,#000000
+Qa,Albic Arenosols,#FEDFDF
+Qc,Cambic Arenosols,#FEDFCE
+Qf,Ferralic Arenosols,#FBA8BF
+Ql,Luvic Arenosols,#FDB0A6
+R,REGOSOLS,#EFFEDF
+Rc,Calcaric Regosols,#EFFE51
+Rd,Dystric Regosols,#EFFEA0
+Re,Eutric Regosols,#EFFEDF
+Rx,Gelic Regosols,#EFFEAF
+S,SOLONETZ,#DF32DF
+Sg,Gleyic Solonetz,#FEBEEF
+Sm,Mollic Solonetz,#DF51DF
+So,Orthic Solonetz,#DF11DF
+T,ANDOSOLS,#686868
+Th,Humic Andosols,#63685C
+Tm,Mollic Andosols,#65675B
+To,Ochric Andosols,#686868
+Tv,Vitric Andosols,#888A7A
+U,RANKERS,#0D0081
+V,VERTSOLS,#DFDFFF
+Vc,Chromic Vertisols,#DFDFFF
+Vp,Pellic Vertisols,#DFCEFF
+W,PLANOSOLS,#DFFEDF
+Wd,Dystric Planosols,#AFFECE
+We,Eutric Planosols,#DFFEDF
+Wh,Humic Planosols,#CEFE60
+Wm,Mollic Planosols,#7FFEA0
+Ws,Solodic Planosols,#AFFEBE
+Wx,Gelic Planosols,#AFFEDF
+X,XEROSOLS,#FEEFAF
+Xh,Haplic Xerosols,#FEEFAF
+Xk,Calcic Xerosols,#DBCD97
+Xl,Luvic Xerosols,#EAE180
+Xy,Gypsic Xerosols,#FEEF8E
+Y,YERMOSOLS,#FEFE11
+Yh,Haplic Yermosols,#FEFE11
+Yk,Calcic Yermosols,#FEFECE
+Yl,Luvic Yermosols,#FEFEFAF
+Yt,Takyric Yermosols,#FEFEBE
+Yy,Gypsic Yermosols,#FEFEA0
+Z,SOLONCHAKS,#FEBEDF
+Zg,Gleyic Solonchaks,#FE3FCE
+Zm,Mollic Solonchaks,#FE6FDF
+Zo,Orthic Solonchaks,#FEBEDF
+Zt,Takyric Solonchaks,#FE3FAF
+WA,Water Bodies,#C2FBFE
+WR,Water bodies,#C2FBFE
+GL,Glaciers,#F0F8FF
+ST,Salt flats,#FFFFFF
+RK,Rock debris,#8B7D6B
+DS,Dunes/Shifting sand,#F4E4C1
+ND,No data,#4E4E4E
